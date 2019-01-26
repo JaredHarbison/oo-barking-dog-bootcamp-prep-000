@@ -3,6 +3,7 @@ class Dog
     @dog 
   end 
   
-  
+  def dog 
+    @dog
   
 end 
