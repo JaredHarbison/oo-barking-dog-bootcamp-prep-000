@@ -3,6 +3,8 @@ class Dog
     @dog 
   end 
   
+  def initialize(name)
+  
   def dog 
     @dog
   end
